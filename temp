@@ -1,0 +1,5 @@
+def trial
+ index = 2
+ numbers = [1,2,3,4]
+ puts number[index]
+end
